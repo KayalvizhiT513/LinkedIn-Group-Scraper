@@ -1,0 +1,4 @@
+This folder includes techniques to compress the JSON file exported from Telegram chat<br>
+1. Minify<br>
+2. Remove redundant/unwanted keys<br>
+3. Divide into chunks
