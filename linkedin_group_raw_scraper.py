@@ -3,7 +3,7 @@ import json
 from playwright.async_api import async_playwright
 
 LOGIN_STATE = "linkedin_login.json"
-GROUP_URL = "https://www.linkedin.com/groups/133636"
+GROUP_URL = "https://www.linkedin.com/groups/111111"
 
 async def scrape_group():
     async with async_playwright() as p:
